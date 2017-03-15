@@ -1,0 +1,87 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "@wappalyzer/wappalyzer",
+        "scope": "@wappalyzer",
+        "escapedName": "@wappalyzer%2fwappalyzer",
+        "name": "@wappalyzer/wappalyzer",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/var/www/html/test/testme/test_wappalyzer"
+    ]
+  ],
+  "_from": "@wappalyzer/wappalyzer@latest",
+  "_id": "@wappalyzer/wappalyzer@3.0.9",
+  "_inCache": true,
+  "_location": "/@wappalyzer/wappalyzer",
+  "_nodeVersion": "4.2.6",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/wappalyzer-3.0.9.tgz_1482033125490_0.28327933652326465"
+  },
+  "_npmUser": {
+    "name": "wappalyzer",
+    "email": "info@wappalyzer.com"
+  },
+  "_npmVersion": "3.5.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "@wappalyzer/wappalyzer",
+    "scope": "@wappalyzer",
+    "escapedName": "@wappalyzer%2fwappalyzer",
+    "name": "@wappalyzer/wappalyzer",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@wappalyzer/wappalyzer/-/wappalyzer-3.0.9.tgz",
+  "_shasum": "9d539ef1477a4d625e73bf2e8471b3f334a65927",
+  "_shrinkwrap": null,
+  "_spec": "@wappalyzer/wappalyzer",
+  "_where": "/var/www/html/test/testme/test_wappalyzer",
+  "author": {
+    "name": "Elbert Alias"
+  },
+  "bugs": {
+    "url": "https://github.com/AliasIO/Wappalyzer/issues"
+  },
+  "dependencies": {
+    "phantomjs-prebuilt": "*"
+  },
+  "description": "Uncovers the technologies used on websites",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "9d539ef1477a4d625e73bf2e8471b3f334a65927",
+    "tarball": "https://registry.npmjs.org/@wappalyzer/wappalyzer/-/wappalyzer-3.0.9.tgz"
+  },
+  "files": [
+    "apps.json",
+    "driver.js",
+    "wappalyzer.js"
+  ],
+  "homepage": "https://github.com/AliasIO/Wappalyzer",
+  "license": "GPLv3",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "wappalyzer",
+      "email": "info@wappalyzer.com"
+    }
+  ],
+  "name": "@wappalyzer/wappalyzer",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliasIO/Wappalyzer.git"
+  },
+  "scripts": {},
+  "version": "3.0.9"
+}

@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@wappalyzer/wappalyzer": "^3.0.9",
+    "commander": "^2.9.0",
+    "inquirer": "^3.0.6"
+  },
+  "name": "wapplyzer_cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
